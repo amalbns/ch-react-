@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+.cards{
+width: 75%;
+margin-left: 15%;
+  }
+.forms{
+  width: 70%;
+  margin-left:15%;
+  margin-top: 5%;
+}
+.nav{
+  justify-content: space-between;
+  margin-right: 40%;
+  font-size: 140%;
+
+}
+.title{
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+}
+.cas1 { color:orangered;
+  font-size: 200%;
+
+}
+nav{
+  background-color: rgb(16, 16, 105);
+}
+
+.cas2{
+  color: orangered;
+  font-size: 200%;
+}
+.cas3{
+  color:orangered;
+  font-size: 200%;
+}
+.list{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(16, 16, 105);
+  margin-top: 2cm;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 4%;
+  border-radius: 4%;
+
+}
+.vid{
+  background-color: beige;
+  color: orangered;
+  font-weight: bolder;
+}
+.product{
+  
+  display: flex;
+  justify-content: space-around;
+  color: orangered;
+  font-weight: bolder;
+  background-color:rgb(16, 16, 105);
+  
+
+}
